@@ -1,0 +1,7 @@
+{
+	// List of extensions which should be recommended for users of this workspace.
+	// These enable support to build CMake unit tests project and run tests easily through UI
+	"recommendations": [
+		"ms-vscode.cpptools-extension-pack"
+	],
+}
