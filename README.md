@@ -51,8 +51,6 @@ Bibliotecas STM32 HAL DRIVER e CMSIS fornecidas pelo STM32CubeIDE. Não possui c
 
 Local dedicado para implementação de códigos de aplicação e bibliotecas do projeto. Implementações desta pasta estarão disponíveis para o projeto de firmware e também para execução nos testes unitários.
 
-Por enquanto estão acessíveis somente pelos testes unitários.
-
 ### `test`
 
 Destinado à implementação de testes unitários e mocks de bibliotecas.
